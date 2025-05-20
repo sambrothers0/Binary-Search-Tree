@@ -1,6 +1,1 @@
-# Binary-Search-Tree
-This is a balanced binary search tree I created from scratch during my Data Structures class.
-As each data point is inserted into the tree, it is placed into its correct, ordered position.
-The tree automatically restructures itself to remain balanced with each operation.
-Included is a test file which rigorously tests the functionality of the tree to ensure no bugs are present.
-There is also a test case in which a new fraction object is created and then inserted into the tree.
+This is a balanced binary search tree I coded from scratch using Python. Using this structure, numbers can be sorted and stored in mathematically optimal time, since the tree automatically detects lopsidedness and rebalances itself to maintain the quickest performance. During the implementation, I learned about heaps and trees as a means of organizing data, and discovered the mechanism behind one of computer science's most important inventions.
